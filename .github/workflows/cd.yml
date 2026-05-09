@@ -22,7 +22,7 @@ jobs:
 
     - name: Build Docker Image
       run: |
-        docker build -t nachichiyaan/devops-iag-project .
+        docker build -t nachichiyaan25/devops-iag-project .
 
     - name: Push Docker Image
       run: |
